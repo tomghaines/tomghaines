@@ -33,6 +33,8 @@ Since the start of my career in sales honing my skills on the phone, I’ve shif
 ### [Emeris](https:/github.com/tomghaines/emeris)  
 A satellite tracking platform that visualizes orbital data in real-time. Features include live tracking, coverage analysis, and dynamic visualizations, providing an intuitive experience for both casual observers and space enthusiasts.
 
+<img src="./public/images/emerisimg.jpg" width="500" />
+
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -42,6 +44,8 @@ A satellite tracking platform that visualizes orbital data in real-time. Feature
 
 ### [BirdyAI](https://github.com/kayyueth/birdy_ai)
 A modern crypto analytics dashboard that converts market sentiment and social signals into actionable insights. It enables users to track narratives, events, and real-time trends in the crypto ecosystem.
+
+<img src="./public/images/birdyaiimg.jpg" width="500" />
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
