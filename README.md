@@ -31,7 +31,7 @@ Since the start of my career in sales honing my skills on the phone, I’ve shif
 ## What I'm working on 👨‍💻
 
 ### [Emeris](https://github.com/tomghaines/emeris)  
-A satellite tracking platform that visualizes orbital data in real-time. Features include live tracking, coverage analysis, and dynamic visualizations, providing an intuitive experience for both casual observers and space enthusiasts.
+A satellite tracking platform that visualises orbital data in real-time. Features include live tracking, coverage analysis, and dynamic visualisations, providing an intuitive experience for both casual observers and space enthusiasts.
 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
