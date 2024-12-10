@@ -33,12 +33,14 @@ Since the start of my career in sales honing my skills on the phone, I’ve shif
 ### [Emeris](https://github.com/tomghaines/emeris)  
 A satellite tracking platform that visualises orbital data in real-time. Features include live tracking, coverage analysis, and dynamic visualisations, providing an intuitive experience for both casual observers and space enthusiasts.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/-Leaflet.js-199900?logo=leaflet&logoColor=white)
 ![Satellite.js](https://img.shields.io/badge/-Satellite.js-333333?logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 <img src="./public/images/emerisimg.jpg" width="500" />
 
@@ -46,6 +48,7 @@ A satellite tracking platform that visualises orbital data in real-time. Feature
 ### [BirdyAI](https://github.com/kayyueth/birdy_ai)
 A modern crypto analytics dashboard that converts market sentiment and social signals into actionable insights. It enables users to track narratives, events, and real-time trends in the crypto ecosystem.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
